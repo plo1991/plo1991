@@ -70,7 +70,7 @@
   <a href="paulo.silva2203@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="20" alt="gmail logo"  />
   </a>
-  <a href="(11)99399-8189" target="_blank">
+  <a href="https://wa.me/5511993998189?text=Ol%C3%A1+Paulo" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="40" height="20" alt="whatsapp logo"  />
   </a>
 </div>
