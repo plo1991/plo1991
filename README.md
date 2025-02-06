@@ -1,7 +1,7 @@
 <h2 align="left">👋 Olá! Eu sou Paulo Henrique, bem-vindo ao meu GitHub!</h2>
 
 <p align="left">
-🚀 Desenvolvedor Full Stack especializado em **.NET, C#, Angular e Cloud Computing**.<br>
+🚀 Desenvolvedor Full Stack especializado em .NET, C#, Angular e Cloud Computing.<br>
 💻 Com 9 anos de experiência, crio soluções escaláveis e de alta performance.<br>
 📈 Apaixonado por tecnologia, boas práticas de desenvolvimento e inovação.<br>
 🎯 Busco sempre melhorar performance, segurança e arquitetura de sistemas.<br>
